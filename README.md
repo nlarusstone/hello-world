@@ -1,2 +1,2 @@
 # hello-world
-Git practice
+Git practice. Hello world!
